@@ -1,5 +1,5 @@
 # minecraft-modpack
-sodium/optifine?
+sodium+iris/optifine?
 ## 1.18
 
 [advanced chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
@@ -7,6 +7,8 @@ sodium/optifine?
 [alex's mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 
 [amplified nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
+
+[biomes o plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 
 [blue skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 
@@ -30,9 +32,13 @@ sodium/optifine?
 
 [illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
 
+[patina pipeworks](https://www.curseforge.com/minecraft/mc-mods/patina-pipeworks)
+
 [quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 
 [sophisticated backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+
+[speedy ladders](https://www.curseforge.com/minecraft/mc-mods/speedy-ladders)
 
 [structure gel api](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 
@@ -44,8 +50,12 @@ sodium/optifine?
 
 [improved mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs)
 
+[minecolonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+
+## 1.17
+
+[better ladders](https://www.curseforge.com/minecraft/mc-mods/better-ladders)
+
 ## 1.16
 
 [creatures and beasts](https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts)
-
-[geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
