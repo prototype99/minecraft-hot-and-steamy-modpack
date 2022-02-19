@@ -1,4 +1,5 @@
-# minecraft-modpack
+# minecraft hot and steamy modpack
+get your head out the gutter! it's named that because it will probably be designed for steamdeck play
 ## 1.18
 ### forge
 
